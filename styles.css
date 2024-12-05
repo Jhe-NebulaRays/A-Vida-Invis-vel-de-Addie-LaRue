@@ -1,0 +1,92 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo */
+body {
+    font-family: 'Georgia', serif; /* Fonte clássica e acadêmica */
+    background-color: #1f1b18; /* Cor escura e sóbria */
+    color: #f1e6d2; /* Cor clara e suave, reminiscentes de papel envelhecido */
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #2d2821; /* Tom escuro e elegante */
+    padding: 30px 0;
+    text-align: center;
+    color: #d3c6aa; /* Cor suave e acolhedora */
+}
+
+header h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1.5px;
+    margin: 0;
+    color: #d3c6aa;
+}
+
+/* Seção da receita */
+main {
+    display: flex;
+    justify-content: center;
+    margin: 20px 10px;
+}
+
+section.receita {
+    background-color: #2d2821; /* Cor de fundo escura e sóbria */
+    border: 2px solid #b2976d; /* Bordas em tom de ouro envelhecido */
+    border-radius: 5px;
+    width: 90%;
+    max-width: 800px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos */
+.receita h2 {
+    font-size: 1.8rem;
+    color: #b2976d; /* Dourado envelhecido, bem no estilo dark academia */
+    margin-bottom: 10px;
+    border-bottom: 2px solid #b2976d;
+    padding-bottom: 5px;
+}
+
+/* Listas */
+ul, ol {
+    margin: 15px 0;
+    padding-left: 20px;
+    font-size: 1.1rem;
+    list-style: none;
+}
+
+ul li, ol li {
+    margin-bottom: 8px;
+    color: #f1e6d2; /* Cor do texto das listas */
+}
+
+/* Rodapé */
+footer {
+    background-color: #2d2821; /* Cor escura para rodapé */
+    color: #d3c6aa; /* Texto claro para contraste */
+    text-align: center;
+    padding: 15px 0;
+    font-size: 1rem;
+}
+
+/* Adaptação para dispositivos móveis */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .receita h2 {
+        font-size: 1.5rem;
+    }
+
+    ul, ol {
+        font-size: 1rem;
+    }
+}
