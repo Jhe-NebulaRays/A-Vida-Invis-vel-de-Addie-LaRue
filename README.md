@@ -12,11 +12,10 @@ Este projeto é um site simples criado para apresentar a sinopse e uma breve res
 - Design Responsivo: Compatibilidade com diferentes dispositivos, garantindo acessibilidade e uma experiência agradável.
 
 ## 📅 Cronograma de Desenvolvimento
-## Etapa	Descrição	Prazo
-- Configuração Inicial:	Configuração do repositório e estrutura básica do site.	05/12/2024
-- Adição do Conteúdo:	Inclusão da sinopse e resenha.	06/12/2024
-- Estilização Final:	Ajustes visuais e implementação do design responsivo.	07/12/2024
-- Publicação:	Lançamento oficial do site.	08/12/2024
+- Configuração Inicial:	Configuração do repositório e estrutura básica do site.	04/12/2024
+- Adição do Conteúdo:	Inclusão da sinopse e resenha.	04/12/2024
+- Estilização Final:	Ajustes visuais e implementação do design responsivo.	04/12/2024
+- Publicação:	Lançamento oficial do site.	04/12/2024
 
 ## 📝 Documentação do Processo de Desenvolvimento
 ## Desafios Enfrentados:
