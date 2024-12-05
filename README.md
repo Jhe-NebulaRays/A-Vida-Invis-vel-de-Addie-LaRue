@@ -1,4 +1,4 @@
-## A Vida Invisível de Addie LaRue: Um Site Dedicado
+# A Vida Invisível de Addie LaRue: Um Site Sobre o Livro
 Este projeto é um site simples criado para apresentar a sinopse e uma breve resenha do livro A Vida Invisível de Addie LaRue, de V.E. Schwab. O objetivo é oferecer aos visitantes uma introdução ao universo único e melancólico da obra, destacando sua essência e seus temas principais.
 
 ## 🎯 Objetivos do Projeto
@@ -13,7 +13,7 @@ Este projeto é um site simples criado para apresentar a sinopse e uma breve res
 
 ## 📅 Cronograma de Desenvolvimento
 ## Etapa	Descrição	Prazo
-# Configuração Inicial:	Configuração do repositório e estrutura básica do site.	05/12/2024
+## Configuração Inicial:	Configuração do repositório e estrutura básica do site.	05/12/2024
 - Adição do Conteúdo:	Inclusão da sinopse e resenha.	06/12/2024
 - Estilização Final:	Ajustes visuais e implementação do design responsivo.	07/12/2024
 - Publicação:	Lançamento oficial do site.	08/12/2024
